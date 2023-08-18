@@ -1,3 +1,2 @@
--- codding in sql
--- list databases in my server
+--THIS COMMAND WILL LIST ALL DATABASES IN MY SERVER
 SHOW DATABASES;
