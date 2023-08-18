@@ -1,0 +1,2 @@
+-- DESCRIBE A TABLE
+DESCRIBE first_table;
