@@ -1,2 +1,2 @@
 -- listing all tables in my db
-SELECT* mysql SHOW TABLES;
+SELECT*  FROM mysql SHOW TABLES;
